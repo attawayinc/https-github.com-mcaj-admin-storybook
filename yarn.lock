@@ -170,10 +170,10 @@
   resolved "https://registry.yarnpkg.com/@angular/common/-/common-9.1.9.tgz#16e77b2db675b80e32f1788a20c538150fd09294"
   integrity sha512-y/tJtkuOJhV2kcaXZyrLZH84i4uQ1r+vaaEHvXj+JZYfYfcMMd/TDqMiPcIkUb3RxqghtZ+q0ZNW5D1Nlru3Pw==
 
-"@angular/compiler-cli@^9.1.0":
-  version "9.1.9"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-9.1.9.tgz#e3c234d888074002fa5f6b7eab4f63f4ddbdb7bd"
-  integrity sha512-aLr2eaDlREN8XybgTbelvjtSZ8eAkxBPilnkddc700BgiC6ImyUSKaItOwa8bnjQwq4Wlz5eVG0ibsrX+5MXwg==
+"@angular/compiler-cli@^9.1.12":
+  version "9.1.12"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-9.1.12.tgz#37ba1a8b483ab1382414d0a13a35a1fd2020abd1"
+  integrity sha512-bbqJ+fbY+aQejSYuHUjE1qYJCXkZBM5Hru9eN7m/j376u83MQ5jWdC290uYx+ipsXcPTa/YRZ44jpL+5cCzIrg==
   dependencies:
     canonical-path "1.0.0"
     chokidar "^3.0.0"
@@ -708,7 +708,7 @@
   dependencies:
     "@babel/types" "^7.8.3"
 
-"@babel/helper-validator-identifier@^7.10.1", "@babel/helper-validator-identifier@^7.9.0", "@babel/helper-validator-identifier@^7.9.5":
+"@babel/helper-validator-identifier@^7.10.1", "@babel/helper-validator-identifier@^7.9.0":
   version "7.10.1"
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.10.1.tgz#5770b0c1a826c4f53f5ede5e153163e0318e94b5"
   integrity sha512-5vW/JXLALhczRCWP0PnFDMCJAchlBvM7f4uk/jXritBnIa6E1KmqmtrS3yn1LAnxFBypQ3eneLuXjsnfQsgILw==
@@ -26162,7 +26162,7 @@ react-docgen-typescript-plugin@^0.5.0, react-docgen-typescript-plugin@^0.5.2:
     react-docgen-typescript-loader "^3.7.2"
     tslib "^2.0.0"
 
-react-docgen-typescript@^1.15.0, react-docgen-typescript@^1.16.6, react-docgen-typescript@^1.20.1:
+react-docgen-typescript@^1.15.0, react-docgen-typescript@^1.20.1:
   version "1.20.1"
   resolved "https://registry.yarnpkg.com/react-docgen-typescript/-/react-docgen-typescript-1.20.1.tgz#774ed8b4a7111acaaa536cad4cfd61c504a46f7e"
   integrity sha512-vU6puLsSwfCS+nI/6skQ52sJIx/uW7+9aMI/V/zPHAXr6s8OQzD5LeL9rXx/Hdt2aNfm4yTX9oJ8ClH/5PKQNg==
