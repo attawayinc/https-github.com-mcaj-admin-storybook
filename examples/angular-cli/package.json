@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.0",
-    "@angular/cli": "^9.1.0",
+    "@angular/cli": "^9.1.12",
     "@angular/compiler-cli": "^9.1.0",
     "@compodoc/compodoc": "^1.1.11",
     "@storybook/addon-a11y": "6.0.0-rc.29",
